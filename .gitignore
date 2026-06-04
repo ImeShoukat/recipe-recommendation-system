@@ -1,0 +1,6 @@
+.vscode/
+*dataset_clean.csv
+*food_recommendation_scaaling.csv
+*PP_recipes.csv
+*RAW_recipes.csv
+
