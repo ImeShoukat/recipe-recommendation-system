@@ -1,6 +1,10 @@
 .vscode/
 *dataset_clean.csv
 *food_recommendation_scaaling.csv
-*PP_recipes.csv
 *RAW_recipes.csv
-
+*RAW_interactions.csv
+*sistem_rekomendasi_resep_makan.ipynb
+*sistemrecpre-pro.ipynb
+*recipes_app.csv
+*cleaned_interactions.csv
+*cleaned_recipes.csv
