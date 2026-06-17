@@ -2,11 +2,7 @@
 RAW_recipes.csv
 RAW_interactions.csv
 
-recipes_app.csv
-dataset_clean.csv
-cleaned_interactions.csv
-cleaned_recipes.csv
-food_recommendation_scaaling.csv
+*.csv
 
 sistemrecpre-pro.ipynb
 sistem_rekomendasi_resep_makan.ipynb
